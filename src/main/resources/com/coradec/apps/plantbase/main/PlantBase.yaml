@@ -1,0 +1,4 @@
+---
+LocalRoot: ~/.coradec/apps/plantbase
+Modules:
+  tea: Teeflanzen.xlsx
